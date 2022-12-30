@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/daniela-idara/Fetch-Unit-Testing#readme",
   "dependencies": {
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   }
 }
